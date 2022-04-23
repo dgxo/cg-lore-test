@@ -1,6 +1,6 @@
 ---
 author: "Dog"
-layout: "foobar"
+layout: "default"
 title: "Mr Firth Visits"
 ---
 
