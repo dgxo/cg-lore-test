@@ -6,6 +6,6 @@ permalink: /posts/firth-visits
 ---
 
 # {{ page.title }}
-> Written by: *{{ page.author }}
+> Written by: *{{ page.author }}*
 
 Wahey!
