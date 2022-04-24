@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Blog
+title: All Posts
 ---
 
 <!-- This loops through the paginated posts -->
