@@ -9,3 +9,5 @@ permalink: /posts/firth-visits
 > Written by: *{{ page.author }}*
 
 Wahey!
+
+[Home Page](./) [Posts](./posts)
