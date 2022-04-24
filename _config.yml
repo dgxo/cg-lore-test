@@ -2,3 +2,4 @@ title: Charlie Grantley Lore
 description: The place to read and submit lore, fan fictions and odd stories of Charlie Grantley.
 theme: jekyll-theme-cayman
 google_analytics: G-0FJ1SDEKTV
+permalink: /:categories/:title
