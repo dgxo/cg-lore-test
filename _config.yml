@@ -3,5 +3,5 @@ description: The place to read and submit lore, fan fictions and odd stories of 
 theme: jekyll-theme-cayman
 google_analytics: G-0FJ1SDEKTV
 permalink: /:categories/:title
-plugins:
-  - jekyll-paginate
+paginate: 5
+paginate_path: "/all:num"
